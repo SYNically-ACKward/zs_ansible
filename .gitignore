@@ -1,3 +1,4 @@
 Pipfile
 Pipfile.lock
 *.tar.gz
+.DS_Store
