@@ -1,0 +1,10 @@
+---
+- name: Check for changes
+  hosts: localhost
+  tasks:
+  - name: Check for changes
+    check_for_changes:
+      cloudId: ""
+      username: ""
+      password: ""
+      api_key: ""
